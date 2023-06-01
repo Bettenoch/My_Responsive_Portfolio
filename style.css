@@ -8,7 +8,7 @@
   --dark-color: #1c1a19;
   }
 
-* {
+/* * {
   padding: 0;
   margin: 0;
   scroll-behavior: smooth;
@@ -187,11 +187,8 @@
   position: absolute;
   list-style: none;
   list-style-type: none; 
-  }
+  } */
 
-.header_text {
-  color: aquamarine;
-}
  
 
 
