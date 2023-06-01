@@ -1,12 +1,12 @@
 :root {
   --orange-color: #ff6b00;
   --white-color: #f4f5f7;
-  --grey-white: #ffffff;
+  --grey-white: #fff;
   --greyish-white: #fff5e1;
   --real-grey: #acb7c3;
   --light-grey: #3e3c3c;
   --dark-color: #1c1a19;
-  }
+}
 
 * {
   padding: 0;
@@ -15,8 +15,7 @@
   text-decoration: none;
   list-style: none;
   box-sizing: border-box;
-  } 
-
+} 
 /* .navbar {
   background-color: var(--light-grey);
   width: 100%;
