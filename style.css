@@ -125,9 +125,9 @@
   position: absolute;
   min-width: 16.3125rem;
   min-width: 16rem;
-  left: 65.74%;
-  right: -30.09%;
-  top: 49.3%;
+  left: 25.74%;
+  right: -12.09%;
+  top: 64.3%;
   bottom: -11.63%;
   transform: matrix(-0.96, 0.27, 0.27, 0.96, 0, 0);
 }
@@ -139,7 +139,7 @@
   font-weight: 400;
   font-size: 3.5rem;
   line-height: 114%;
-  margin-top: 14rem;
+  margin-top: 11rem;
   margin-bottom: 0.6rem;
   color: var(--orange-color);
 }
